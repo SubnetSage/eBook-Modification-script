@@ -1,0 +1,6 @@
+fitz  # PyMuPDF for PDF text extraction
+google-generativeai  # Google Gemini API
+google-api-python-client  # Google Workspace API
+google-auth  # Authentication for Google APIs
+google-auth-oauthlib  # OAuth for Google APIs
+google-auth-httplib2  # HTTP transport for Google authentication
